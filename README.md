@@ -11,18 +11,12 @@
 ## **BIO**
 
  
-
-|||
-
-| ------ | ------ |
-
+| 1 | 2 |
+| --- | --- |
 | **Name:** | Alexander Sidorkin |
-
 | **Age:** | 28 y.o. |
-
 | **Occupation:** | Android-developer |
 
- 
 
 Primary programming languages:
 
@@ -35,7 +29,4 @@ Primary programming languages:
 - Python
 
  
-
-==Main tasks to be solved:==
-
 > Many tasks are being solved trakakaak
